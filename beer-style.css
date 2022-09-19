@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+body {
+    background-color: #FBD71F;
+}
+input {
+    background-color: darkgray;
+}
+textarea {
+    background-color: darkgray;
+}
+body {
+    font-family: Bebas Neue, sans-serif;
+    color: crimson;
+}
