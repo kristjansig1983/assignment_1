@@ -1,4 +1,11 @@
-.top-background {
+@import url('https://fonts.googleapis.com/css2?family=Bungee+Spice&display=swap');
+body {
     background-color: rgb(63, 21, 131);
     color: white;
+    font-family: bungee Spice;
+}
+img {
+    margin: 4px;
+    padding: 4px;
+    background-color: cyan;
 }
